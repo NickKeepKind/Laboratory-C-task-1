@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 // Function declaration
-int ATM();
+int ATM_Siwtch();
 int ATM_ElseIf();
 
 // Main function
