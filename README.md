@@ -1,4 +1,4 @@
-## Basic-C-tasks-1
+## Laboratory-C-Task-1
 
 **By**  —  **N**icolaos **T**sitsonis.
 
